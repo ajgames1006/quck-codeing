@@ -1,6 +1,6 @@
 import customtkinter
 
-#watch the tutorial for this game at 
+#watch the tutorial for this game at https://youtu.be/37kTR0VGfoE
 
 clicks = 0
 clickup = 1
